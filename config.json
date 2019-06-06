@@ -1,3 +1,0 @@
-const object = require(xxx);
-function func(){};
-const {name,id} = O;
