@@ -1,2 +1,2 @@
 # LearningGIT
-learning git<br>**git checkout branch**
+learning git
