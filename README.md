@@ -9,3 +9,5 @@ First of all,learn with question is most valid.follow sentences is my result tha
 * if i want to cancel **git add** can use **git reset HEAD <filename>** instruction roll up status. <font color="lime">**NOTE**</font> :blush: { all files on local stage.}
 * then, **git commit -m "..."** push commit to local stage
 * this moment, can use **git reset --soft HEAD^** cancel commit not change commit.
+
+![study method](https://github.com/onloner2012/LearningGIT/blob/master/picture/methods.png)
